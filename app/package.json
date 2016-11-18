@@ -1,11 +1,11 @@
 {
   "name": "nativefier-placeholder",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Placeholder for the nativefier cli to override with a target url",
   "main": "lib/main.js",
   "dependencies": {
-    "electron-dl": "^1.1.0",
-    "electron-window-state": "^3.0.3",
+    "electron-dl": "^1.5.0",
+    "electron-window-state": "^3.1.0",
     "source-map-support": "^0.4.0",
     "wurl": "^2.1.0"
   },
